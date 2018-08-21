@@ -1,21 +1,25 @@
-# Node.js Loginapp
+# Node.js Registeration-login-app
 
-This is a user login and registration app using Node.js, Express, Passport and Mongoose. It is part of the YouTube series [here](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
+This is a user login and registration app using Node.js, Express and Mongoose.
 
-### Version
-1.1.0
-
-### Usage
-
+Node Version
+v9.5.0
 
 ### Installation
 
-Loginapp requires [Node.js](https://nodejs.org/) v4+ to run.
+Loginapp requires Node in your system [download](https://nodejs.org/).
+
+Also install mongodb [download](https://www.mongodb.com/)
+ And Robomomongo
+
+Run the following command on command line
+```sh
+$ npm init
+```
 
 ```sh
 $ npm install
 ```
 
 ```sh
-$ npm start
-```
+$ node app.js
